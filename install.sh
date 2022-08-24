@@ -17,4 +17,4 @@ rootPermsCheck()
 
 echo hello
 macOSCheck
-#rootPermsCheck
+rootPermsCheck

@@ -1,2 +1,2 @@
-# macbian-installer
- Macbian Installer
+# Macbian Installer
+Not a finished or runnable product yet.

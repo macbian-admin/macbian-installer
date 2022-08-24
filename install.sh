@@ -15,6 +15,6 @@ rootPermsCheck()
         exit 1
     fi
 
-echo hello
+
 macOSCheck
 rootPermsCheck

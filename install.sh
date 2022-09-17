@@ -62,10 +62,14 @@ mountESP() {
         exit 1
     fi
 }
+partitionDisk() {
+
+}
+
 
 
 macOSCheck
-#rootPermsCheck # Comment for debug (developers only)
+#rootPermsCheck # Comment for debug
 intelMacCheck
 disclaimer
 downloadBase

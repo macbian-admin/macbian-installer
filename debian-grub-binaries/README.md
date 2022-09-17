@@ -1,0 +1,4 @@
+# Debian GRUB Binaries
+The files in this directory are the EFI binaries for [GRUB](https://www.gnu.org/software/grub/) 2 used to boot the Macbian Stage 2 installation environment. These are copied to `/EFI/BOOT/BOOTX64.EFI` or `/EFI/BOOT/BOOTIA32.EFI` (not implemented as of 9/17/2022) on the EFI system partition of the Mac and will only be used for the first boot before the proper up-to-date GRUB is installed (and correctly configured). These files look for configuration data and modules at `/EFI/debian`.
+
+GRUB 2 is licensed under the [GNU General Public License, version 3](https://www.gnu.org/licenses/gpl-3.0.html).

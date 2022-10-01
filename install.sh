@@ -63,7 +63,7 @@ mountESP() {
     fi
 }
 partitionDisk() {
-
+    
 }
 
 
